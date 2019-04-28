@@ -1,4 +1,6 @@
-# Python fucntion to evaluate a string expression: Alternative to eval function
+# Python function to evaluate a string expression: Alternative to eval function
+
+# Author: Vas Kuruganti
 
 def eval2(s):
     k = s.split('+')
